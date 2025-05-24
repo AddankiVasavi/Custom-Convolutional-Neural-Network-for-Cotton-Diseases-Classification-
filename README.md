@@ -1,0 +1,1 @@
+# Custom-Convolutional-Neural-Network-for-Cotton-Diseases-Classification-
